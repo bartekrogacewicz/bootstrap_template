@@ -1,0 +1,25 @@
+.light-grey{
+	background-color: #f0f0f0;
+}
+.grey {
+	background-color: #818181;
+}
+.dark-grey {
+	background-color: #3a3a3a;
+	color:white;
+}
+.inner-box {
+	margin: 0 auto;
+	width: 90%;
+	
+}
+.master {
+	margin-top: 10px;
+}
+.floor {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.titlx {
+	font-family: 'Open Sans';
+}
